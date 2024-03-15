@@ -1,14 +1,14 @@
 {
   "files": {
-    "main.css": "/git@github.com:reshavshrma/portfolio.git/static/css/main.ced68b4e.css",
-    "main.js": "/git@github.com:reshavshrma/portfolio.git/static/js/main.62eba9c3.js",
-    "static/media/rs2.jpg": "/git@github.com:reshavshrma/portfolio.git/static/media/rs2.6065782687b116c13556.jpg",
-    "index.html": "/git@github.com:reshavshrma/portfolio.git/index.html",
-    "main.ced68b4e.css.map": "/git@github.com:reshavshrma/portfolio.git/static/css/main.ced68b4e.css.map",
-    "main.62eba9c3.js.map": "/git@github.com:reshavshrma/portfolio.git/static/js/main.62eba9c3.js.map"
+    "main.css": "/portfolio/static/css/main.ced68b4e.css",
+    "main.js": "/portfolio/static/js/main.30133d20.js",
+    "static/media/rs2.jpg": "/portfolio/static/media/rs2.6065782687b116c13556.jpg",
+    "index.html": "/portfolio/index.html",
+    "main.ced68b4e.css.map": "/portfolio/static/css/main.ced68b4e.css.map",
+    "main.30133d20.js.map": "/portfolio/static/js/main.30133d20.js.map"
   },
   "entrypoints": [
     "static/css/main.ced68b4e.css",
-    "static/js/main.62eba9c3.js"
+    "static/js/main.30133d20.js"
   ]
 }
