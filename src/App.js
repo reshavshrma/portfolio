@@ -1,5 +1,5 @@
 import React from 'react';
-import profilePic from './rs1.jpg';
+import profilePic from './rs2.jpg';
 import './App.css';
 import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';
 import { faGithub, faLinkedin } from '@fortawesome/free-brands-svg-icons';
@@ -23,7 +23,7 @@ function App() {
             but has also fueled my passion for web development.</p>
             </strong></div>
 
-          <div><strong>
+          <div><strong> 
 
           <p>Being a part of this dynamic field, I constantly strive to expand my knowledge and skills in web development. I find the process of creating 
             web applications fascinating, especially when I see how they can positively impact people's lives. From front-end design to back-end 
@@ -57,7 +57,7 @@ function App() {
       <div className="project">
       <h3>Jammu and Kashmir Police Sub Inspector Form using created using HTML and CSS.</h3>
       <a href="https://reshavshrma.github.io/jkssb/" target="_blank" rel="noopener noreferrer">Click here to view Project</a>
-      </div>
+      </div> <span> </span>
       <div className="project">
       <h3>CBI's Website Clone created using HTML and CSS.</h3>
       <a href="https://reshavshrma.github.io/digitalcidjk/" target="_blank" rel="noopener noreferrer">Click here to view Project</a>
@@ -92,6 +92,7 @@ function App() {
         <a href="https://github.com/reshavshrma" target="_blank" rel="noopener noreferrer">
           <FontAwesomeIcon icon={faGithub} />
         </a>
+        <span> </span>
         <a href="https://www.linkedin.com/in/reshav-sharma-67a3142a8/" target="_blank" rel="noopener noreferrer">
           <FontAwesomeIcon icon={faLinkedin} />
         </a>
