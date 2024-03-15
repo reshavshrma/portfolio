@@ -238,3 +238,21 @@
 .resume-button:hover {
   background-color: rgb(200, 198, 209);
 }
+
+/* for all phones*/
+
+@media only screen and (max-width: 320px) {
+  /* CSS rules for small phones */
+}
+
+@media only screen and (min-width: 321px) and (max-width: 375px) {
+  /* CSS rules for medium phones */
+}
+
+@media only screen and (min-width: 376px) and (max-width: 414px) {
+  /* CSS rules for large phones */
+}
+
+@media only screen and (min-width: 415px) {
+  /* CSS rules for extra large phones */
+}
