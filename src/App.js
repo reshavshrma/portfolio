@@ -80,7 +80,7 @@ function App() {
           <li className="skill-item">Git</li>
         </ul>
         <div className="button-container">
-          <a href='https://drive.google.com/file/d/1zuUZ_wjnkdjHqRs7vINQImPsO4Y0k7oc/view?usp=sharing' target='_blank' rel='noopener noreferrer' className="resume-button">Click to view Resume</a>
+          <a href='https://drive.google.com/file/d/1zuUZ_wjnkdjHqRs7vINQImPsO4Y0k7oc/view?usp=sharing' target='_blank' rel='noopener noreferrer' className="resume-button">Click to view and download Resume</a>
         </div>
       </section>
 
